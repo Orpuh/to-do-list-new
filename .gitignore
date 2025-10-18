@@ -1,0 +1,15 @@
+node_modules
+TodoPlannerMobile/
+.expo/
+dist/
+.DS_Store
+*.log
+music-recommender/
+striketasks/
+striketasks-new/
+todo-planner/
+TodoPlannerMobile/
+.expo/
+dist/
+.DS_Store
+*.log
